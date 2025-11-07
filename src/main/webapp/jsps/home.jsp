@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mahesh Store — Shop Online</title>
+  <title>Mahesh milky — Shop Online</title>
   <style>
     /* Simple modern styling inspired by common e-commerce layouts */
     :root{--primary:#ff9900;--dark:#111;--muted:#666}
