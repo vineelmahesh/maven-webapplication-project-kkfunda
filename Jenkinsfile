@@ -8,8 +8,8 @@ node
    echo "node name is: ${env.NODE_NAME}"
 
 
-   // /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven-3.9.9/bin
-   def mavenHome=tool name: "maven-3.9.9"
+// /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven-3.9.11/bin
+    def mavenHome =tool name:"maven-3.9.11"
     try
     {
   notifyBuild('STARTED')
